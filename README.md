@@ -5,7 +5,7 @@ posts and rates images of incredible dogs. They are a non-profit organization th
 provides expert dog ratings. Dog owners and aficionados around the world share 
 images of their pets, which are then rated by other dog owners.
 
-The dataset contains several attributes which include the tweet_id, timestamp, 
+I wrangled and analyzed the WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The dataset contains several attributes which include the tweet_id, timestamp, 
 rating, name, stage, retweet_count, favorite_count, image_url, image_num e.t.c.
 Most of the dog ratings had a denominator of 10 meanwhile the numerator ranges 
 from 0 to 1776. This unique rating system is a big part of the popularity of 
