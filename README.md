@@ -1,4 +1,4 @@
-# Wrangle-and-Analyze-Data
+# Data Wrangling and Analysis
 
 WeRateDogs® is a popular Twitter handle with more than 9.2 million followers that 
 posts and rates images of incredible dogs. They are a non-profit organization that 
