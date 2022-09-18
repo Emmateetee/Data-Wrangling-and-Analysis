@@ -11,7 +11,7 @@ Most of the dog ratings had a denominator of 10 meanwhile the numerator ranges
 from 0 to 1776. This unique rating system is a big part of the popularity of 
 WeRateDogs.
 
-From my analysis, the following insights can be deduced:
+From my analysis, the following insights were deduced:
 1. The name of the dog with the highest number of retweets of 79,515 is not 
 given in the dataset. Meanwhile, Stephan had the second-highest number of 
 retweets (56,625). Also, the name of the dog with the third-highest number 
